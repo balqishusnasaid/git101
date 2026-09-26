@@ -10,3 +10,9 @@ this is code (type je mcm biasa)
 *italic*
 
 ~~strike through~~
+
+this is a quote
+> this is a quote
+
+NAME: Balqis 
+DEGREE: Stats
